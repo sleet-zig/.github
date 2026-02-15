@@ -9,7 +9,7 @@ community made near-sdk-zig:
 <br/>
 https://github.com/DaviRain-Su/near-sdk-zig
 
-examples form the zig sdk:
+examples from the zig sdk:
 - https://github.com/sleet-zig/counter-contract-zig
 - https://github.com/sleet-zig/token-contract-zig
 - https://github.com/sleet-zig/status-contract-zig
